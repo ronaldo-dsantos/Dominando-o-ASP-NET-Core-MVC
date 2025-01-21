@@ -3,22 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\ConhecimentosEssenciais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,16 +19,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\_ViewImports.cshtml*",
-              "RelativeToolTip": "..\\src\\AppSemTemplete\\Views\\_ViewImports.cshtml*",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\src\\AppSemTemplete\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-18T01:13:20.863Z",
@@ -58,53 +49,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "..\\src\\AppSemTemplete\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-18T00:24:11.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\libman.json",
-              "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\libman.json",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\libman.json",
-              "RelativeToolTip": "..\\src\\AppSemTemplete\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-18T00:00:22.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\Home\\index.cshtml",
-              "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Views\\Home\\index.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\Home\\index.cshtml",
-              "RelativeToolTip": "..\\src\\AppSemTemplete\\Views\\Home\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T02:41:08.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Program.cs",
-              "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Program.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Program.cs",
-              "RelativeToolTip": "..\\src\\AppSemTemplete\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T02:36:30.931Z",
               "EditorCaption": ""
             }
           ]
