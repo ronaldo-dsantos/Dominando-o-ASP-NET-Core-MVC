@@ -9,6 +9,18 @@
       "PackagePath": "staticwebassets\\css\\site.min.css"
     },
     {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\js\\cep.js",
+      "PackagePath": "staticwebassets\\js\\cep.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },

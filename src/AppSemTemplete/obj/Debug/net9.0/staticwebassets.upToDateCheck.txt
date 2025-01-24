@@ -1,8 +1,10 @@
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\css\bootstrap-reboot.min.css.map
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\js\bootstrap.min.js.map
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\css\bootstrap-grid.min.css.map
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\js\site.js
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\css\site.css
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\js\cep.js
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\jquery\jquery.min.map
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\js\bootstrap.esm.min.js
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
@@ -34,6 +36,7 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.css
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\js\bootstrap.js.map
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.css.map
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\js\site.min.js
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\css\bootstrap.rtl.css.map
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.css.map
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.min.css.map
@@ -54,6 +57,9 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js
 wwwroot\css\site.css
 wwwroot\css\site.min.css
+wwwroot\js\cep.js
+wwwroot\js\site.js
+wwwroot\js\site.min.js
 wwwroot\lib\bootstrap\css\bootstrap.css
 wwwroot\lib\bootstrap\css\bootstrap.css.map
 wwwroot\lib\bootstrap\css\bootstrap.min.css
