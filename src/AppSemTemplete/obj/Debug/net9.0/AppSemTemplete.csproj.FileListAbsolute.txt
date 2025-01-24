@@ -84,3 +84,6 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\y28mry5aog-2z0ns9nrw6.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\niuxa66zy4-muycvpuwrr.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\wdfrnu9q30-87fc7y1x7t.gz
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\bundleconfig.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\5lvo5subvp-mhxwb9x30k.gz
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\eleg1qyg2t-ur0ca24ut5.gz
