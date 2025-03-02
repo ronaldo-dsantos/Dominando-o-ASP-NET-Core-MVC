@@ -1,4 +1,4 @@
-﻿namespace AppSemTemplete.Models
+﻿namespace AppSemTemplate.Models
 {
     public class Produto
     {

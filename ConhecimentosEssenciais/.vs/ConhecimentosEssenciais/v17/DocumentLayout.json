@@ -3,7 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\ConhecimentosEssenciais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplete.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplate.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplate.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,19 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "..\\src\\AppSemTemplete\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T23:51:25.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Models\\Produto.cs",
-              "RelativeToolTip": "..\\src\\AppSemTemplete\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "BotaoTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Extensions\\BotaoTagHelper.cs",
+              "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Extensions\\BotaoTagHelper.cs",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Extensions\\BotaoTagHelper.cs",
+              "RelativeToolTip": "..\\src\\AppSemTemplete\\Extensions\\BotaoTagHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:48:16.774Z",
+              "WhenOpened": "2025-03-01T23:40:18.503Z",
               "EditorCaption": ""
             }
           ]
