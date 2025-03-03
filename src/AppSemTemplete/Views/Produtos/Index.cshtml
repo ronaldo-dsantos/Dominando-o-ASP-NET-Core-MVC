@@ -38,6 +38,7 @@
                     R$ @Html.DisplayFor(modelItem => item.Valor)
                 </td>
                 <td>
+                    @* Implementando o TagHelper customizado *@
                     <botao tipo-botao="Detalhes" route-id="@item.Id"></botao>
                     <botao tipo-botao="Editar" route-id="@item.Id"></botao>
                     <botao tipo-botao="Excluir" route-id="@item.Id"></botao>
@@ -50,3 +51,7 @@
         }
     </tbody>
 </table>
+
+@* Implementando o ViewComponent *@
+<vc:counter model-counter="@Model.Count()"></vc:counter>
+@* @await Component.InvokeAsync("Counter", Model.Count()); *@
