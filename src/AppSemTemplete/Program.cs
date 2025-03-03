@@ -5,6 +5,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 
+// Exemplo usando transformador de rota
+//builder.Services.AddRouting(options =>
+//{
+//    options.ConstraintMap["slugify"] = typeof(RouteSlugifyParamteterTrasformer);
+//});
+
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 builder.Services.AddDbContext<AppDbContext>(o =>
@@ -15,6 +21,11 @@ var app = builder.Build();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+// Exemplo usando transformador de rota
+//app.MapControllerRoute(
+//    name: "default",
+//    pattern: "{controller:slugify=Home}/{action:slugify=Index}/{id?}");
 
 app.MapControllerRoute(
     name: "default",
