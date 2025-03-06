@@ -1,3 +1,4 @@
+using AppSemTemplate.Services;
 using AppSemTemplete.Data;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
@@ -22,6 +23,14 @@ builder.Services.Configure<RazorViewEngineOptions>(options =>
 //});
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+// Tipos de ciclo de vida para injeção de dependência
+builder.Services.AddTransient<IOperacaoTransient, Operacao>();
+builder.Services.AddScoped<IOperacaoScoped, Operacao>();
+builder.Services.AddSingleton<IOperacaoSingleton, Operacao>();
+builder.Services.AddSingleton<IOperacaoSingletonInstance>(new Operacao(Guid.Empty));
+
+builder.Services.AddTransient<OperacaoService>();
 
 builder.Services.AddDbContext<AppDbContext>(o =>
     o.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -49,5 +58,15 @@ app.MapAreaControllerRoute("AreaVendas", "Vendas", "Vendas/{controller=Gestao}/{
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+// Maneira de fazer injeção de dependência antes do start da aplicação
+using (var ServiceScope = app.Services.CreateScope())
+{
+    var services = ServiceScope.ServiceProvider;
+
+    var singService = services.GetRequiredService<IOperacaoSingleton>();
+
+    Console.WriteLine("Direto da Program.cs" + singService.OperacaoId);
+}
 
 app.Run();
