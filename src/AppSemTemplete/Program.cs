@@ -1,11 +1,18 @@
 using AppSemTemplate.Services;
 using AppSemTemplete.Data;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllersWithViews();
+//builder.Services.AddControllersWithViews();
+
+// Aplicando globalmente o ValidateAntiForgeryToken em todas as requisições (pode ser aplicado individualmente em cada método ou aplicado globalmente para toda a aplicação) 
+builder.Services.AddControllersWithViews(options =>
+{
+    options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+});
 
 //Adicionando suporte a mudança de convenção de rota das áreas
 builder.Services.Configure<RazorViewEngineOptions>(options =>
