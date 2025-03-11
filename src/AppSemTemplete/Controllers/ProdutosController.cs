@@ -2,9 +2,11 @@
 using Microsoft.EntityFrameworkCore;
 using AppSemTemplete.Data;
 using AppSemTemplate.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AppSemTemplete.Controllers
 {
+    //[Authorize(Roles = "Admin")]
     [Route("meus-produtos")]
     public class ProdutosController : Controller
     {
@@ -15,6 +17,7 @@ namespace AppSemTemplete.Controllers
             _context = context;
         }
 
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             var user = HttpContext.User.Identity;
@@ -108,6 +111,7 @@ namespace AppSemTemplete.Controllers
         }
 
         [Route("excluir/{id}")]
+        [Authorize(Policy = "PodeExcluirPermanentemente")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -124,9 +128,10 @@ namespace AppSemTemplete.Controllers
 
             return View(produto);
         }
-
+        
         [HttpPost("excluir/{id}"), ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "PodeExcluirPermanentemente")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var produto = await _context.Produtos.FindAsync(id);

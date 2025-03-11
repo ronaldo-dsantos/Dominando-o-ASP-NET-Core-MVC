@@ -6,7 +6,16 @@
       "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplate.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConhecimentosEssenciais/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplate.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConhecimentosEssenciais/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConhecimentosEssenciais/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplate.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,8 +28,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.AspNetUserRoles [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConhecimentosEssenciais/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T02:46:10.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.AspNetRoles [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConhecimentosEssenciais/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T02:38:52.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetUsers [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ConhecimentosEssenciais/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T02:38:39.141Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -29,14 +68,14 @@
               "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Controllers\\ProdutosController.cs",
               "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "..\\src\\AppSemTemplete\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T02:13:52.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Data\\AppDbContext.cs",
@@ -44,18 +83,17 @@
               "RelativeToolTip": "..\\src\\AppSemTemplete\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T00:02:16.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T00:02:16.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Program.cs",
               "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Program.cs",
               "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Program.cs",
               "RelativeToolTip": "..\\src\\AppSemTemplete\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAgwEMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:44:52.448Z",
               "EditorCaption": ""
