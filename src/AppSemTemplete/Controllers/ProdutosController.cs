@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace AppSemTemplete.Controllers
 {
-    //[Authorize(Roles = "Admin")]
+    [Authorize(Roles = "Admin")]
     [Route("meus-produtos")]
     public class ProdutosController : Controller
     {
@@ -17,7 +17,8 @@ namespace AppSemTemplete.Controllers
             _context = context;
         }
 
-        [AllowAnonymous]
+        //[AllowAnonymous]
+        [Authorize(Policy = "VerProdutos")]
         public async Task<IActionResult> Index()
         {
             var user = HttpContext.User.Identity;
@@ -26,6 +27,7 @@ namespace AppSemTemplete.Controllers
         }
 
         [Route("detalhes/{id}")]
+        [Authorize(Policy = "VerProdutos")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
