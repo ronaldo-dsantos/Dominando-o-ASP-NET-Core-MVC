@@ -1,5 +1,6 @@
 using AppSemTemplate.Services;
 using AppSemTemplete.Data;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
@@ -8,13 +9,13 @@ var builder = WebApplication.CreateBuilder(args);
 
 //builder.Services.AddControllersWithViews();
 
-// Aplicando globalmente o ValidateAntiForgeryToken em todas as requisições (pode ser aplicado individualmente em cada método ou aplicado globalmente para toda a aplicação) 
+// Aplicando globalmente o ValidateAntiForgeryToken em todas as requisiï¿½ï¿½es (pode ser aplicado individualmente em cada mï¿½todo ou aplicado globalmente para toda a aplicaï¿½ï¿½o) 
 builder.Services.AddControllersWithViews(options =>
 {
     options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
 });
 
-//Adicionando suporte a mudança de convenção de rota das áreas
+//Adicionando suporte a mudanï¿½a de convenï¿½ï¿½o de rota das ï¿½reas
 builder.Services.Configure<RazorViewEngineOptions>(options =>
 {
     options.AreaViewLocationFormats.Clear();
@@ -31,7 +32,7 @@ builder.Services.Configure<RazorViewEngineOptions>(options =>
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
-// Tipos de ciclo de vida para injeção de dependência
+// Tipos de ciclo de vida para injeï¿½ï¿½o de dependï¿½ncia
 builder.Services.AddTransient<IOperacaoTransient, Operacao>();
 builder.Services.AddScoped<IOperacaoScoped, Operacao>();
 builder.Services.AddSingleton<IOperacaoSingleton, Operacao>();
@@ -42,7 +43,7 @@ builder.Services.AddTransient<OperacaoService>();
 builder.Services.AddDbContext<AppDbContext>(o =>
     o.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Alterando configurações de HSTS
+// Alterando configuraï¿½ï¿½es de HSTS
 builder.Services.AddHsts(options =>
 {
     options.Preload = true;
@@ -52,9 +53,14 @@ builder.Services.AddHsts(options =>
     options.ExcludedHosts.Add("www.example.com");
 });
 
+builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+    {
+        options.SignIn.RequireConfirmedAccount = true;
+    }).AddEntityFrameworkStores<AppDbContext>();
+
 var app = builder.Build();
 
-// Adicionando o HSTS a aplicação
+// Adicionando o HSTS a aplicaï¿½ï¿½o
 if (app.Environment.IsDevelopment())
 {
 }
@@ -69,6 +75,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthorization();
+
 // Exemplo usando transformador de rota
 //app.MapControllerRoute(
 //    name: "default",
@@ -79,7 +87,7 @@ app.UseRouting();
 //    name: "areas",
 //    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
-// Rota para áreas especializadas
+// Rota para ï¿½reas especializadas
 app.MapAreaControllerRoute("AreaProdutos", "Produtos", "Produtos/{controller=Cadastro}/{action=Index}/{id?}");
 app.MapAreaControllerRoute("AreaVendas", "Vendas", "Vendas/{controller=Gestao}/{action=Index}/{id?}");
 
@@ -87,7 +95,9 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// Maneira de fazer injeção de dependência antes do start da aplicação
+app.MapRazorPages();
+
+// Maneira de fazer injeï¿½ï¿½o de dependï¿½ncia antes do start da aplicaï¿½ï¿½o
 using (var ServiceScope = app.Services.CreateScope())
 {
     var services = ServiceScope.ServiceProvider;

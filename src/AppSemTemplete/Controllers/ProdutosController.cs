@@ -17,6 +17,8 @@ namespace AppSemTemplete.Controllers
 
         public async Task<IActionResult> Index()
         {
+            var user = HttpContext.User.Identity;
+
             return View(await _context.Produtos.ToListAsync());
         }
 
