@@ -8,6 +8,9 @@
     ".NETCoreApp,Version=v9.0": {
       "AppSemTemplate/1.0.0": {
         "dependencies": {
+          "Elmah.Io.AspNetCore": "5.2.80",
+          "Elmah.Io.AspNetCore.ExtensionsLogging": "5.2.59",
+          "Elmah.Io.Extensions.Logging": "5.2.59",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.2",
           "Microsoft.AspNetCore.Identity.UI": "9.0.2",
           "Microsoft.EntityFrameworkCore.Design": "9.0.2",
@@ -52,6 +55,48 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.11.4.0",
             "fileVersion": "1.1100.424.31005"
+          }
+        }
+      },
+      "Elmah.Io.AspNetCore/5.2.80": {
+        "dependencies": {
+          "Elmah.Io.Client": "5.2.118"
+        },
+        "runtime": {
+          "lib/net8.0/Elmah.Io.AspNetCore.dll": {
+            "assemblyVersion": "5.2.80.0",
+            "fileVersion": "5.2.80.0"
+          }
+        }
+      },
+      "Elmah.Io.AspNetCore.ExtensionsLogging/5.2.59": {
+        "runtime": {
+          "lib/net8.0/Elmah.Io.AspNetCore.ExtensionsLogging.dll": {
+            "assemblyVersion": "5.2.59.0",
+            "fileVersion": "5.2.59.0"
+          }
+        }
+      },
+      "Elmah.Io.Client/5.2.118": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/Elmah.Io.Client.dll": {
+            "assemblyVersion": "5.2.118.0",
+            "fileVersion": "5.2.118.0"
+          }
+        }
+      },
+      "Elmah.Io.Extensions.Logging/5.2.59": {
+        "dependencies": {
+          "Elmah.Io.Client": "5.2.118",
+          "Microsoft.Extensions.Logging": "9.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Elmah.Io.Extensions.Logging.dll": {
+            "assemblyVersion": "5.2.59.0",
+            "fileVersion": "5.2.59.0"
           }
         }
       },
@@ -2255,6 +2300,34 @@
       "sha512": "sha512-Sf4BoE6Q3jTgFkgBkx7qztYOFELBCo+wQgpYDwal/qJ1unBH73ywPztIJKXBXORRzAeNijsuxhk94h0TIMvfYg==",
       "path": "azure.identity/1.11.4",
       "hashPath": "azure.identity.1.11.4.nupkg.sha512"
+    },
+    "Elmah.Io.AspNetCore/5.2.80": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QTICHfX5dlEvb12887TOrPC90qx2WyF6GornVgxlh/WEbZu2XfSSAdRi9hjI6zUbj4f4HDWwo925dcxGVdBMFA==",
+      "path": "elmah.io.aspnetcore/5.2.80",
+      "hashPath": "elmah.io.aspnetcore.5.2.80.nupkg.sha512"
+    },
+    "Elmah.Io.AspNetCore.ExtensionsLogging/5.2.59": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c0A42OQwG2pvLkLM6ehQ3o+J9cEXqtlnxPu6j3wWbgEUfofPS9P1wKb2yhGn5kviCnM5JTXawE6WEMdgkPAvCw==",
+      "path": "elmah.io.aspnetcore.extensionslogging/5.2.59",
+      "hashPath": "elmah.io.aspnetcore.extensionslogging.5.2.59.nupkg.sha512"
+    },
+    "Elmah.Io.Client/5.2.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AvI7YVoAcpxoGUo2oYldDE690Dqhvj3kTglVE5kbplYyqNluoe4S8NIJSoAkHNG5o1JxMDFeDA34anig5jYAqA==",
+      "path": "elmah.io.client/5.2.118",
+      "hashPath": "elmah.io.client.5.2.118.nupkg.sha512"
+    },
+    "Elmah.Io.Extensions.Logging/5.2.59": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zmEBeFLcTeIIaOf5oHdaG2VwG32w4KZJF3cOZGMjjQU5likV5G7gbus5kl3GwGaQ9IS2db/aMIFsBwSuKyX+hg==",
+      "path": "elmah.io.extensions.logging/5.2.59",
+      "hashPath": "elmah.io.extensions.logging.5.2.59.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",

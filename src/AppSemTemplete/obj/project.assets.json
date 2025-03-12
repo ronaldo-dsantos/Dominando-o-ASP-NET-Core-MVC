@@ -47,6 +47,74 @@
           }
         }
       },
+      "Elmah.Io.AspNetCore/5.2.80": {
+        "type": "package",
+        "dependencies": {
+          "Elmah.Io.Client": "[5.2.118, 6.0.0)"
+        },
+        "compile": {
+          "lib/net8.0/Elmah.Io.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Elmah.Io.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Elmah.Io.AspNetCore.ExtensionsLogging/5.2.59": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Elmah.Io.AspNetCore.ExtensionsLogging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Elmah.Io.AspNetCore.ExtensionsLogging.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Elmah.Io.Client/5.2.118": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "lib/net8.0/Elmah.Io.Client.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Elmah.Io.Client.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Elmah.Io.Extensions.Logging/5.2.59": {
+        "type": "package",
+        "dependencies": {
+          "Elmah.Io.Client": "[5.2.118, 6.0.0)",
+          "Microsoft.Extensions.Logging": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Elmah.Io.Extensions.Logging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Elmah.Io.Extensions.Logging.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -3205,6 +3273,83 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Elmah.Io.AspNetCore/5.2.80": {
+      "sha512": "QTICHfX5dlEvb12887TOrPC90qx2WyF6GornVgxlh/WEbZu2XfSSAdRi9hjI6zUbj4f4HDWwo925dcxGVdBMFA==",
+      "type": "package",
+      "path": "elmah.io.aspnetcore/5.2.80",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "elmah.io.aspnetcore.5.2.80.nupkg.sha512",
+        "elmah.io.aspnetcore.nuspec",
+        "icon.png",
+        "lib/net8.0/Elmah.Io.AspNetCore.dll",
+        "lib/net8.0/Elmah.Io.AspNetCore.xml",
+        "lib/netstandard2.0/Elmah.Io.AspNetCore.dll",
+        "lib/netstandard2.0/Elmah.Io.AspNetCore.xml"
+      ]
+    },
+    "Elmah.Io.AspNetCore.ExtensionsLogging/5.2.59": {
+      "sha512": "c0A42OQwG2pvLkLM6ehQ3o+J9cEXqtlnxPu6j3wWbgEUfofPS9P1wKb2yhGn5kviCnM5JTXawE6WEMdgkPAvCw==",
+      "type": "package",
+      "path": "elmah.io.aspnetcore.extensionslogging/5.2.59",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elmah.io.aspnetcore.extensionslogging.5.2.59.nupkg.sha512",
+        "elmah.io.aspnetcore.extensionslogging.nuspec",
+        "icon.png",
+        "lib/net8.0/Elmah.Io.AspNetCore.ExtensionsLogging.dll",
+        "lib/net8.0/Elmah.Io.AspNetCore.ExtensionsLogging.xml",
+        "lib/netstandard2.0/Elmah.Io.AspNetCore.ExtensionsLogging.dll",
+        "lib/netstandard2.0/Elmah.Io.AspNetCore.ExtensionsLogging.xml"
+      ]
+    },
+    "Elmah.Io.Client/5.2.118": {
+      "sha512": "AvI7YVoAcpxoGUo2oYldDE690Dqhvj3kTglVE5kbplYyqNluoe4S8NIJSoAkHNG5o1JxMDFeDA34anig5jYAqA==",
+      "type": "package",
+      "path": "elmah.io.client/5.2.118",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "elmah.io.client.5.2.118.nupkg.sha512",
+        "elmah.io.client.nuspec",
+        "icon.png",
+        "lib/net45/Elmah.Io.Client.dll",
+        "lib/net45/Elmah.Io.Client.xml",
+        "lib/net46/Elmah.Io.Client.dll",
+        "lib/net46/Elmah.Io.Client.xml",
+        "lib/net461/Elmah.Io.Client.dll",
+        "lib/net461/Elmah.Io.Client.xml",
+        "lib/net8.0/Elmah.Io.Client.dll",
+        "lib/net8.0/Elmah.Io.Client.xml",
+        "lib/netstandard1.1/Elmah.Io.Client.dll",
+        "lib/netstandard1.1/Elmah.Io.Client.xml",
+        "lib/netstandard1.4/Elmah.Io.Client.dll",
+        "lib/netstandard1.4/Elmah.Io.Client.xml",
+        "lib/netstandard2.0/Elmah.Io.Client.dll",
+        "lib/netstandard2.0/Elmah.Io.Client.xml"
+      ]
+    },
+    "Elmah.Io.Extensions.Logging/5.2.59": {
+      "sha512": "zmEBeFLcTeIIaOf5oHdaG2VwG32w4KZJF3cOZGMjjQU5likV5G7gbus5kl3GwGaQ9IS2db/aMIFsBwSuKyX+hg==",
+      "type": "package",
+      "path": "elmah.io.extensions.logging/5.2.59",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "elmah.io.extensions.logging.5.2.59.nupkg.sha512",
+        "elmah.io.extensions.logging.nuspec",
+        "icon.png",
+        "lib/net8.0/Elmah.Io.Extensions.Logging.dll",
+        "lib/net8.0/Elmah.Io.Extensions.Logging.xml",
+        "lib/netstandard2.0/Elmah.Io.Extensions.Logging.dll",
+        "lib/netstandard2.0/Elmah.Io.Extensions.Logging.xml"
       ]
     },
     "Humanizer/2.14.1": {
@@ -8414,6 +8559,9 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Elmah.Io.AspNetCore >= 5.2.80",
+      "Elmah.Io.AspNetCore.ExtensionsLogging >= 5.2.59",
+      "Elmah.Io.Extensions.Logging >= 5.2.59",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 9.0.2",
       "Microsoft.AspNetCore.Identity.UI >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
@@ -8473,6 +8621,18 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
+          "Elmah.Io.AspNetCore": {
+            "target": "Package",
+            "version": "[5.2.80, )"
+          },
+          "Elmah.Io.AspNetCore.ExtensionsLogging": {
+            "target": "Package",
+            "version": "[5.2.59, )"
+          },
+          "Elmah.Io.Extensions.Logging": {
+            "target": "Package",
+            "version": "[5.2.59, )"
+          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[9.0.2, )"

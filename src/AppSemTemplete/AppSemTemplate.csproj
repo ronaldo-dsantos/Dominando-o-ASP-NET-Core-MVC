@@ -17,6 +17,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Elmah.Io.AspNetCore" Version="5.2.80" />	  
+	  <PackageReference Include="Elmah.Io.AspNetCore.ExtensionsLogging" Version="5.2.59" />
+	  <PackageReference Include="Elmah.Io.Extensions.Logging" Version="5.2.59" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="9.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.2">

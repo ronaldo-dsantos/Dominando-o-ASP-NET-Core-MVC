@@ -8,19 +8,26 @@ namespace AppSemTemplete.Controllers
     public class HomeController : Controller
     {
         private readonly IConfiguration Configuration;
-
         private readonly ApiConfiguration ApiConfiguration;
+        private readonly ILogger<HomeController> Logger;
 
         public HomeController(IConfiguration configuration, 
-                              IOptions<ApiConfiguration> apiConfiguration)
+                              IOptions<ApiConfiguration> apiConfiguration,
+                              ILogger<HomeController> logger)
         {
             Configuration = configuration;
             ApiConfiguration = apiConfiguration.Value;
-
+            Logger = logger;
         }
 
         public IActionResult Index()
         {
+            // Exemplo de como imprimir logs no ElmahIo
+            Logger.LogInformation("Information");
+            Logger.LogCritical("Critical");
+            Logger.LogWarning("Warning");
+            Logger.LogError("Error");
+
             // Exemplo de como capturar o ambiente da aplicação
             var env = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 

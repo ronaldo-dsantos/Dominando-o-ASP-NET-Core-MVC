@@ -74,6 +74,9 @@ namespace AppSemTemplate.Configuration
                 app.UseHsts();
             }
 
+            app.UseElmahIo();
+            app.UseElmahIoExtensionsLogging();
+
             app.UseHttpsRedirection();
 
             app.UseStaticFiles();

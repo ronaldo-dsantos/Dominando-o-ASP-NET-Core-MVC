@@ -413,3 +413,7 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\Elmah.Io.AspNetCore.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\Elmah.Io.Client.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\Elmah.Io.AspNetCore.ExtensionsLogging.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\Elmah.Io.Extensions.Logging.dll

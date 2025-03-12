@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Ac1lyVx67Vw=",
+  "dgSpecHash": "CCyCtYJtsoY=",
   "success": true,
   "projectFilePath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\AppSemTemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\ronal\\.nuget\\packages\\elmah.io.aspnetcore\\5.2.80\\elmah.io.aspnetcore.5.2.80.nupkg.sha512",
+    "C:\\Users\\ronal\\.nuget\\packages\\elmah.io.aspnetcore.extensionslogging\\5.2.59\\elmah.io.aspnetcore.extensionslogging.5.2.59.nupkg.sha512",
+    "C:\\Users\\ronal\\.nuget\\packages\\elmah.io.client\\5.2.118\\elmah.io.client.5.2.118.nupkg.sha512",
+    "C:\\Users\\ronal\\.nuget\\packages\\elmah.io.extensions.logging\\5.2.59\\elmah.io.extensions.logging.5.2.59.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
