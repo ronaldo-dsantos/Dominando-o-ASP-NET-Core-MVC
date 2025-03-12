@@ -51,6 +51,10 @@ namespace AppSemTemplate.Configuration
                 options.ExcludedHosts.Add("www.example.com");
             });
 
+            // Exemplo de como capturar configurações do appsettings.json e disponibilizar para a aplicação globalmente
+            builder.Services.Configure<ApiConfiguration>(
+                builder.Configuration.GetSection(ApiConfiguration.ConfigName));
+
             return builder;
         }
 
