@@ -65,9 +65,12 @@ namespace AppSemTemplate.Configuration
             // Adicionando o HSTS a aplicação
             if (app.Environment.IsDevelopment())
             {
+                app.UseDeveloperExceptionPage();
             }
             else
             {
+                app.UseExceptionHandler("/erro/500");
+                app.UseStatusCodePagesWithRedirects("/erro/{0}");
                 app.UseHsts();
             }
 
