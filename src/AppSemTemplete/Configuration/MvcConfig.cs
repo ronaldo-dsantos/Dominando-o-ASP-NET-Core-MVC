@@ -10,6 +10,13 @@ namespace AppSemTemplate.Configuration
     {
         public static WebApplicationBuilder AddMvcConfiguration(this WebApplicationBuilder builder)
         {
+            // Reforçando o comportamento padrão para os arquivos de configuração de ambiente
+            builder.Configuration
+                .SetBasePath(builder.Environment.ContentRootPath)
+                .AddJsonFile("appsettings.json", false, true)
+                .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", true, true)
+                .AddEnvironmentVariables();
+
             // Aplicando globalmente o ValidateAntiForgeryToken em todas as requisições (pode ser aplicado individualmente em cada m�todo ou aplicado globalmente para toda a aplica��o) 
             builder.Services.AddControllersWithViews(options =>
             {
