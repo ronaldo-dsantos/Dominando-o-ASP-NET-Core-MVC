@@ -1,4 +1,5 @@
-﻿using AppSemTemplate.Services;
+﻿using AppSemTemplate.Extensions;
+using AppSemTemplate.Services;
 using AppSemTemplete.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
@@ -23,6 +24,7 @@ namespace AppSemTemplate.Configuration
             builder.Services.AddControllersWithViews(options =>
             {
                 options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+                options.Filters.Add(typeof(FiltroAuditoria));
             });
 
             //Adicionando suporte a mudança de convenção de rota das áreas
