@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace AppSemTemplete.Migrations
+namespace AppSemTemplate.Migrations
 {
     /// <inheritdoc />
     public partial class CreateDatabase : Migration

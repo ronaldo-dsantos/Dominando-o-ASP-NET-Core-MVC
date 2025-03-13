@@ -3,7 +3,7 @@ using AppSemTemplate.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 
-namespace AppSemTemplete.Controllers
+namespace AppSemTemplate.Controllers
 {
     public class HomeController : Controller
     {

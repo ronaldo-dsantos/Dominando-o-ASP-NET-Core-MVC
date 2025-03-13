@@ -1,6 +1,6 @@
-﻿using AppSemTemplate.Extensions;
+﻿using AppSemTemplate.Data;
+using AppSemTemplate.Extensions;
 using AppSemTemplate.Services;
-using AppSemTemplete.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
@@ -25,6 +25,9 @@ namespace AppSemTemplate.Configuration
             {
                 options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
                 options.Filters.Add(typeof(FiltroAuditoria));
+
+                // Adicionando mensagens de validação de ModelState customizadas
+                MvcOptionsConfig.ConfigurarMensagensDeModelBinding(options.ModelBindingMessageProvider);
             });
 
             //Adicionando suporte a mudança de convenção de rota das áreas

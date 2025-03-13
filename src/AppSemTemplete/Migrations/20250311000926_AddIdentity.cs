@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace AppSemTemplete.Migrations
+namespace AppSemTemplate.Migrations
 {
     /// <inheritdoc />
     public partial class AddIdentity : Migration

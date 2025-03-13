@@ -1,4 +1,4 @@
-﻿using AppSemTemplete.Data;
+﻿using AppSemTemplate.Data;
 using Microsoft.AspNetCore.Identity;
 
 namespace AppSemTemplate.Configuration

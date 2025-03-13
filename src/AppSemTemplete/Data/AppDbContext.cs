@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace AppSemTemplete.Data
+namespace AppSemTemplate.Data
 {
     public class AppDbContext : IdentityDbContext
     {

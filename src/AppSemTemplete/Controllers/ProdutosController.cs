@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using AppSemTemplete.Data;
+using AppSemTemplate.Data;
 using AppSemTemplate.Models;
 using Microsoft.AspNetCore.Authorization;
 using AppSemTemplate.Extensions;
 
-namespace AppSemTemplete.Controllers
+namespace AppSemTemplate.Controllers
 {
     [Authorize]
     [Route("meus-produtos")]
@@ -18,7 +18,6 @@ namespace AppSemTemplete.Controllers
             _context = context;
         }
 
-        //[AllowAnonymous]
         //[Authorize(Policy = "VerProdutos")]
         [ClaimsAuthorize("Produtos", "VI")]
         public async Task<IActionResult> Index()
@@ -59,7 +58,7 @@ namespace AppSemTemplete.Controllers
 
         [ClaimsAuthorize("Produtos", "AD")]
         [HttpPost("criar-novo")]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> CriarNovoProduto([Bind("Id,Nome,Imagem,Valor")] Produto produto)
         {
             if (ModelState.IsValid)
