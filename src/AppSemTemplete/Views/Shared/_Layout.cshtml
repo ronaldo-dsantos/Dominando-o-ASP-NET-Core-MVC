@@ -61,8 +61,11 @@
                 <div class="text-start">
                     Seu site ASP.NET feito do jeito certo!!
                 </div>
+                @*                <div class="text-end">
+                Idioma selecionado: @System.Globalization.CultureInfo.CurrentCulture.Name
+                </div>*@
                 <div class="text-end">
-                    Idioma selecionado: @System.Globalization.CultureInfo.CurrentCulture.Name
+                    <partial name="_SelectLanguagePartial" />
                 </div>
             </div>
         </div>

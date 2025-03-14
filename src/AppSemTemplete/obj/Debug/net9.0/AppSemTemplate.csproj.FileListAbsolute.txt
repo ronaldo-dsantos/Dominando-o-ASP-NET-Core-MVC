@@ -558,3 +558,9 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\zv8lfk3dlj-lrgc3fda45.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\bj6ksbcnkf-rim35fn1um.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\xig704iyvf-ur0ca24ut5.gz
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\en\AppSemTemplate.resources.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.Resources.Controllers.HomeController.en.resources
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.csproj.GenerateResource.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\en\AppSemTemplate.resources.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.Resources.Models.Produto.en.resources
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.Resources.Views.Shared._SelectLanguagePartial.en.resources

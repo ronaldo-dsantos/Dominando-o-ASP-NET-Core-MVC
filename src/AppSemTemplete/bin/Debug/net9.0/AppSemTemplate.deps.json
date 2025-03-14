@@ -21,6 +21,11 @@
         },
         "runtime": {
           "AppSemTemplate.dll": {}
+        },
+        "resources": {
+          "en/AppSemTemplate.resources.dll": {
+            "locale": "en"
+          }
         }
       },
       "Azure.Core/1.38.0": {
