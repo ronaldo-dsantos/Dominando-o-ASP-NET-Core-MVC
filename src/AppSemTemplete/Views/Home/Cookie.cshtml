@@ -1,0 +1,7 @@
+﻿@* Exemplo de como obter um cookie na view *@
+
+@{
+    var MeuCookieValue = Context.Request.Cookies["MeuCookie"];
+}
+
+<p>O valor do cookie é: @MeuCookieValue</p>

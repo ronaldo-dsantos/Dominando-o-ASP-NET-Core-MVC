@@ -31,13 +31,19 @@ namespace AppSemTemplate.Configuration
 
                 // Adicionando mensagens de validação de ModelState customizadas
                 MvcOptionsConfig.ConfigurarMensagensDeModelBinding(options.ModelBindingMessageProvider);
-            })
-                // Adicionando suporte a localização para as views
-                .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
-                // Adicionando suporte a localização para as DataAnnotation
-                .AddDataAnnotationsLocalization();
+            })                
+                .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix) // Adicionando suporte a localização para as views                
+                .AddDataAnnotationsLocalization(); // Adicionando suporte a localização para as DataAnnotation
 
-            //Adicionando suporte a mudança de convenção de rota das áreas
+            // Adicionando suporte a cookies
+            builder.Services.Configure<CookiePolicyOptions>(options =>
+            {
+                options.CheckConsentNeeded = context => true;
+                options.MinimumSameSitePolicy = SameSiteMode.None;
+                options.ConsentCookieValue = "true";
+            });
+
+            // Adicionando suporte a mudança de convenção de rota das áreas
             builder.Services.Configure<RazorViewEngineOptions>(options =>
             {
                 options.AreaViewLocationFormats.Clear();
@@ -91,11 +97,14 @@ namespace AppSemTemplate.Configuration
             app.UseGlobalizationConfig();
 
             app.UseElmahIo();
+
             app.UseElmahIoExtensionsLogging();
 
             app.UseHttpsRedirection();
 
             app.UseStaticFiles();
+
+            app.UseCookiePolicy();
 
             app.UseRouting();
 

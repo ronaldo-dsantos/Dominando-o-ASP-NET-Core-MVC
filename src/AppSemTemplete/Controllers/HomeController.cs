@@ -27,7 +27,7 @@ namespace AppSemTemplate.Controllers
         }
 
         // Exemplo de como utilizar o ResponseCache (exemplo didático, na vida real, utilizar em situações que não dependem do usuário logado)
-        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, NoStore = false)]
+        //[ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, NoStore = false)]
         public IActionResult Index()
         {
             // Exemplo de como imprimir logs no ElmahIo
@@ -55,7 +55,13 @@ namespace AppSemTemplate.Controllers
             ViewData["Message"] = _localizer["Seja bem vindo!"];
 
             ViewData["Horario"] = DateTime.Now;
- 
+
+            // Exemplo de como obter um cookie 
+            if (Request.Cookies.TryGetValue("MeuCookie", out string? cookieValue))
+            {
+                ViewData["MeuCookie"] = cookieValue;
+            }
+
             return View();
         }
 
@@ -70,6 +76,20 @@ namespace AppSemTemplate.Controllers
             );
 
             return LocalRedirect(returnUrl);
+        }
+
+        // // Exemplo de como gravar um cookie
+        [Route("cookies")]
+        public IActionResult Cookie()
+        {
+            var cookieOptions = new CookieOptions
+            {
+                Expires = DateTime.Now.AddHours(1)
+            };
+
+            Response.Cookies.Append("MeuCookie", "Dados do Cookie", cookieOptions);
+
+            return View();
         }
 
 
