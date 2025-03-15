@@ -248,7 +248,6 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\scopedcss\bundle\AppSemTemplate.styles.css
-C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\tw9kizf1x0-mhxwb9x30k.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\6rr1sdlwxa-61n19gt1b8.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\tbbu8x8pup-um3pkd2lbt.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\l8mhvmofck-um3pkd2lbt.gz
@@ -557,10 +556,11 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\z2evq5egre-dblook5b1t.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\zv8lfk3dlj-lrgc3fda45.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\bj6ksbcnkf-rim35fn1um.gz
-C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\xig704iyvf-ur0ca24ut5.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\en\AppSemTemplate.resources.dll
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.Resources.Controllers.HomeController.en.resources
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.csproj.GenerateResource.cache
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\en\AppSemTemplate.resources.dll
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.Resources.Models.Produto.en.resources
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.Resources.Views.Shared._SelectLanguagePartial.en.resources
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\tw9kizf1x0-0frselpm5f.gz
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\xig704iyvf-8f9ldmwz93.gz

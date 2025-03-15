@@ -190,6 +190,7 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 wwwroot\css\site.css
 wwwroot\css\site.min.css
 wwwroot\favicon.ico
+wwwroot\images\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg
 wwwroot\images\CSS.jpg
 wwwroot\images\HTML.jpg
 wwwroot\images\JQuery.jpg

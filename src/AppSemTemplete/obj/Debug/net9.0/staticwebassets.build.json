@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D1YdnDSU3UPaBnXZ/KISNIc/kuXHpOMbFVKGNY4qVkU=",
+  "Hash": "pKNHWqTcgOvSvVAN0Ax7SoDRLklP0QN/vxl3+YX/HzE=",
   "Source": "AppSemTemplate",
   "BasePath": "_content/AppSemTemplate",
   "Mode": "Default",
@@ -5582,12 +5582,12 @@
       "OriginalItemSpec": "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.2\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-mhxwb9x30k.gz",
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-0frselpm5f.gz",
       "SourceId": "AppSemTemplate",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/AppSemTemplate",
-      "RelativePath": "css/site#[.{fingerprint=mhxwb9x30k}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=0frselpm5f}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5596,8 +5596,8 @@
       "RelatedAsset": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "egqhd92dwg",
-      "Integrity": "0g6fqFHW9MeE6D9s4hPlfY6MOoo8X/SwMW9pUnr1gyM=",
+      "Fingerprint": "yx3juo5mda",
+      "Integrity": "Sle4RQwktfD1DQlU6pbZZF2qvQjtqHSKjho7s5Qc7nQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.css"
@@ -6233,12 +6233,12 @@
       "OriginalItemSpec": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js"
     },
     {
-      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-ur0ca24ut5.gz",
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-8f9ldmwz93.gz",
       "SourceId": "AppSemTemplate",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/AppSemTemplate",
-      "RelativePath": "css/site.min#[.{fingerprint=ur0ca24ut5}]?.css.gz",
+      "RelativePath": "css/site.min#[.{fingerprint=8f9ldmwz93}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6247,8 +6247,8 @@
       "RelatedAsset": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cjbimx7fa0",
-      "Integrity": "6DR5oUeseBA8D+jSwKzGNenTpMWVIipDTio2It7EnyQ=",
+      "Fingerprint": "4uvi6h68xx",
+      "Integrity": "VITSpkbNh276UqPhIfrsd6TARapFwqQ7LE8p8ADt/8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.min.css"
@@ -6625,8 +6625,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mhxwb9x30k",
-      "Integrity": "dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI=",
+      "Fingerprint": "0frselpm5f",
+      "Integrity": "NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -6646,8 +6646,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ur0ca24ut5",
-      "Integrity": "Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA=",
+      "Fingerprint": "8f9ldmwz93",
+      "Integrity": "9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
@@ -6672,6 +6672,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
+      "SourceId": "AppSemTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\",
+      "BasePath": "_content/AppSemTemplate",
+      "RelativePath": "images/84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8avdwpkua6",
+      "Integrity": "YDzNkcybr9jnxIj9LKdM6xWmYdUWQmD9N4b33ODqa1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg"
     },
     {
       "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\CSS.jpg",
@@ -12598,6 +12619,167 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/site.0frselpm5f.css",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-0frselpm5f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004545454545"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sle4RQwktfD1DQlU6pbZZF2qvQjtqHSKjho7s5Qc7nQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 01:00:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0frselpm5f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.0frselpm5f.css",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 01:00:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0frselpm5f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.0frselpm5f.css.gz",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-0frselpm5f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sle4RQwktfD1DQlU6pbZZF2qvQjtqHSKjho7s5Qc7nQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 01:00:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0frselpm5f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sle4RQwktfD1DQlU6pbZZF2qvQjtqHSKjho7s5Qc7nQ="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.2\\staticwebassets\\css\\site.css",
       "Selectors": [],
@@ -12636,12 +12818,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-mhxwb9x30k.gz",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-0frselpm5f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.017241379310"
+          "Quality": "0.004545454545"
         }
       ],
       "ResponseHeaders": [
@@ -12651,15 +12833,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "57"
+          "Value": "219"
         },
         {
           "Name": "ETag",
-          "Value": "\"0g6fqFHW9MeE6D9s4hPlfY6MOoo8X/SwMW9pUnr1gyM=\""
+          "Value": "\"Sle4RQwktfD1DQlU6pbZZF2qvQjtqHSKjho7s5Qc7nQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 02:46:44 GMT"
+          "Value": "Sat, 15 Mar 2025 01:00:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12679,13 +12861,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI=\""
+          "Value": "W/\"NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI="
+          "Value": "sha256-NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0="
         }
       ]
     },
@@ -12700,7 +12882,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "38"
+          "Value": "418"
         },
         {
           "Name": "Content-Type",
@@ -12708,11 +12890,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI=\""
+          "Value": "\"NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 02:46:44 GMT"
+          "Value": "Sat, 15 Mar 2025 01:00:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12722,13 +12904,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI="
+          "Value": "sha256-NDQiaRJcViLCyhsOZq811CL2xUiBeNSUyvA4DkDpOv0="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-mhxwb9x30k.gz",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-0frselpm5f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12737,7 +12919,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "57"
+          "Value": "219"
         },
         {
           "Name": "Content-Type",
@@ -12745,11 +12927,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0g6fqFHW9MeE6D9s4hPlfY6MOoo8X/SwMW9pUnr1gyM=\""
+          "Value": "\"Sle4RQwktfD1DQlU6pbZZF2qvQjtqHSKjho7s5Qc7nQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 02:46:44 GMT"
+          "Value": "Sat, 15 Mar 2025 01:00:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12767,18 +12949,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0g6fqFHW9MeE6D9s4hPlfY6MOoo8X/SwMW9pUnr1gyM="
+          "Value": "sha256-Sle4RQwktfD1DQlU6pbZZF2qvQjtqHSKjho7s5Qc7nQ="
         }
       ]
     },
     {
-      "Route": "css/site.mhxwb9x30k.css",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-mhxwb9x30k.gz",
+      "Route": "css/site.min.8f9ldmwz93.css",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-8f9ldmwz93.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.017241379310"
+          "Quality": "0.000032168822"
         }
       ],
       "ResponseHeaders": [
@@ -12788,15 +12970,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "57"
+          "Value": "31085"
         },
         {
           "Name": "ETag",
-          "Value": "\"0g6fqFHW9MeE6D9s4hPlfY6MOoo8X/SwMW9pUnr1gyM=\""
+          "Value": "\"VITSpkbNh276UqPhIfrsd6TARapFwqQ7LE8p8ADt/8g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 02:46:44 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12816,179 +12998,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI=\""
+          "Value": "W/\"9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mhxwb9x30k"
+          "Value": "8f9ldmwz93"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/site.min.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI="
+          "Value": "sha256-9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE="
         }
       ]
     },
     {
-      "Route": "css/site.mhxwb9x30k.css",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "38"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 02:46:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mhxwb9x30k"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dg/T62E7HrKzUm+eWpPTEdEUwhK3cTquArOeu3qVGGI="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.mhxwb9x30k.css.gz",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\tw9kizf1x0-mhxwb9x30k.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "57"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0g6fqFHW9MeE6D9s4hPlfY6MOoo8X/SwMW9pUnr1gyM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 02:46:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mhxwb9x30k"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0g6fqFHW9MeE6D9s4hPlfY6MOoo8X/SwMW9pUnr1gyM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.min.css",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-ur0ca24ut5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032302872"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30956"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6DR5oUeseBA8D+jSwKzGNenTpMWVIipDTio2It7EnyQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.min.css",
+      "Route": "css/site.min.8f9ldmwz93.css",
       "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.min.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12998,7 +13027,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "232167"
+          "Value": "232453"
         },
         {
           "Name": "Content-Type",
@@ -13006,121 +13035,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA=\""
+          "Value": "\"9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.min.css.gz",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-ur0ca24ut5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30956"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6DR5oUeseBA8D+jSwKzGNenTpMWVIipDTio2It7EnyQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6DR5oUeseBA8D+jSwKzGNenTpMWVIipDTio2It7EnyQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.min.ur0ca24ut5.css",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-ur0ca24ut5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032302872"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30956"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6DR5oUeseBA8D+jSwKzGNenTpMWVIipDTio2It7EnyQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:02 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ur0ca24ut5"
+          "Value": "8f9ldmwz93"
         },
         {
           "Name": "label",
@@ -13128,13 +13057,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA="
+          "Value": "sha256-9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE="
         }
       ]
     },
     {
-      "Route": "css/site.min.ur0ca24ut5.css",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.min.css",
+      "Route": "css/site.min.8f9ldmwz93.css.gz",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-8f9ldmwz93.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13143,7 +13072,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "232167"
+          "Value": "31085"
         },
         {
           "Name": "Content-Type",
@@ -13151,56 +13080,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA=\""
+          "Value": "\"VITSpkbNh276UqPhIfrsd6TARapFwqQ7LE8p8ADt/8g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ur0ca24ut5"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fh+J+T1rkKLztgNyUhy5xpqbFm/wdjjlTBEQsKzzGvA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.min.ur0ca24ut5.css.gz",
-      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-ur0ca24ut5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30956"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6DR5oUeseBA8D+jSwKzGNenTpMWVIipDTio2It7EnyQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13218,7 +13102,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ur0ca24ut5"
+          "Value": "8f9ldmwz93"
         },
         {
           "Name": "label",
@@ -13226,7 +13110,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6DR5oUeseBA8D+jSwKzGNenTpMWVIipDTio2It7EnyQ="
+          "Value": "sha256-VITSpkbNh276UqPhIfrsd6TARapFwqQ7LE8p8ADt/8g="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.css",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-8f9ldmwz93.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032168822"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31085"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VITSpkbNh276UqPhIfrsd6TARapFwqQ7LE8p8ADt/8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 01:13:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.css",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 01:13:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Cew518WCo87CoFsfZWzD2W0ul9F2VHkg89KhQU9/fE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.css.gz",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\obj\\Debug\\net9.0\\compressed\\xig704iyvf-8f9ldmwz93.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VITSpkbNh276UqPhIfrsd6TARapFwqQ7LE8p8ADt/8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 01:13:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VITSpkbNh276UqPhIfrsd6TARapFwqQ7LE8p8ADt/8g="
         }
       ]
     },
@@ -22097,6 +22118,88 @@
       ]
     },
     {
+      "Route": "images/84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.8avdwpkua6.jpg",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDzNkcybr9jnxIj9LKdM6xWmYdUWQmD9N4b33ODqa1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 01:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8avdwpkua6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDzNkcybr9jnxIj9LKdM6xWmYdUWQmD9N4b33ODqa1A="
+        }
+      ]
+    },
+    {
+      "Route": "images/84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDzNkcybr9jnxIj9LKdM6xWmYdUWQmD9N4b33ODqa1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 01:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDzNkcybr9jnxIj9LKdM6xWmYdUWQmD9N4b33ODqa1A="
+        }
+      ]
+    },
+    {
       "Route": "images/CSS.esvpfyxtkp.jpg",
       "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\CSS.jpg",
       "Selectors": [],
@@ -22921,7 +23024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22974,7 +23077,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23011,7 +23114,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23058,7 +23161,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23119,7 +23222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23164,7 +23267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 06:01:34 GMT"
+          "Value": "Sat, 15 Mar 2025 01:13:03 GMT"
         },
         {
           "Name": "Cache-Control",
