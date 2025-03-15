@@ -20,6 +20,9 @@ namespace AppSemTemplate.Configuration
                 .AddEnvironmentVariables()
                 .AddUserSecrets(Assembly.GetExecutingAssembly(), true);
 
+            // Adicionando suporte a cache na aplicação
+            builder.Services.AddResponseCaching();
+
             builder.Services.AddControllersWithViews(options =>
             {
                 // Aplicando globalmente o ValidateAntiForgeryToken em todas as requisições (pode ser aplicado individualmente em cada m�todo ou aplicado globalmente para toda a aplica��o)
@@ -82,6 +85,8 @@ namespace AppSemTemplate.Configuration
                 app.UseStatusCodePagesWithRedirects("/erro/{0}");
                 app.UseHsts();
             }
+
+            app.UseResponseCaching();
 
             app.UseGlobalizationConfig();
 

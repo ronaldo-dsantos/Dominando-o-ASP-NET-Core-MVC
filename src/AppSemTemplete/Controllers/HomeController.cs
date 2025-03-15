@@ -26,6 +26,8 @@ namespace AppSemTemplate.Controllers
             _localizer = localizer;
         }
 
+        // Exemplo de como utilizar o ResponseCache (exemplo didático, na vida real, utilizar em situações que não dependem do usuário logado)
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, NoStore = false)]
         public IActionResult Index()
         {
             // Exemplo de como imprimir logs no ElmahIo
@@ -52,6 +54,8 @@ namespace AppSemTemplate.Controllers
             // Adicionando msg que será exibida conforme o idioma selecionado
             ViewData["Message"] = _localizer["Seja bem vindo!"];
 
+            ViewData["Horario"] = DateTime.Now;
+ 
             return View();
         }
 
