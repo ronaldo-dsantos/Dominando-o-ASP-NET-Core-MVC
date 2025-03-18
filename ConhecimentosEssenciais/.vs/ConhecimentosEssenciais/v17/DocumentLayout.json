@@ -6,7 +6,7 @@
       "AbsoluteMoniker": "D:0:0:{1324CA7B-768A-4840-8339-84EBAEF972A7}|..\\tests\\Testes\\Testes.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\testes\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B6B4481-9278-45A0-9BA7-4CB8A3618C73}|..\\src\\AppSemTemplete\\AppSemTemplate.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\appsemtemplete\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1324CA7B-768A-4840-8339-84EBAEF972A7}|..\\tests\\Testes\\Testes.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\testes\\testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,14 +29,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TesteController.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Controllers\\TesteController.cs",
-              "RelativeDocumentMoniker": "..\\src\\AppSemTemplete\\Controllers\\TesteController.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\Controllers\\TesteController.cs",
-              "RelativeToolTip": "..\\src\\AppSemTemplete\\Controllers\\TesteController.cs",
+              "Title": "Testes",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\Testes\\Testes.csproj",
+              "RelativeDocumentMoniker": "..\\tests\\Testes\\Testes.csproj",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\Testes\\Testes.csproj",
+              "RelativeToolTip": "..\\tests\\Testes\\Testes.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T21:31:14.93Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T22:27:17.517Z",
               "EditorCaption": ""
             },
             {
@@ -47,7 +47,7 @@
               "RelativeDocumentMoniker": "..\\tests\\Testes\\ControllerTests.cs",
               "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\Testes\\ControllerTests.cs",
               "RelativeToolTip": "..\\tests\\Testes\\ControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T21:20:20.989Z",
               "EditorCaption": ""
