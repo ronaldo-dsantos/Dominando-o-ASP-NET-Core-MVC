@@ -190,6 +190,7 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 wwwroot\css\site.css
 wwwroot\css\site.min.css
 wwwroot\favicon.ico
+wwwroot\images\67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg
 wwwroot\images\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg
 wwwroot\images\929a00fd-42b0-4cb1-9d17-4df15f451df1_Foto Perfil Ronaldo.jpeg
 wwwroot\images\CSS.jpg
@@ -197,6 +198,7 @@ wwwroot\images\eb581a03-b46f-41df-aa42-bc900d3b26d0_Foto Perfil Natacha.jpg
 wwwroot\images\HTML.jpg
 wwwroot\images\JQuery.jpg
 wwwroot\images\logo_watermark.png
+wwwroot\images\prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg
 wwwroot\images\prod_84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg
 wwwroot\images\prod_CSS.jpg
 wwwroot\images\prod_eb581a03-b46f-41df-aa42-bc900d3b26d0_Foto Perfil Natacha.jpg

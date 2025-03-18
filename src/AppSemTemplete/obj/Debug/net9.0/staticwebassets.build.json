@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "75BdwRXaw9X7IqsU9rAB9C8ctBASd/PbVwIbG8AWHxM=",
+  "Hash": "j4ej3xoFU3G5UNAmv1bPuZIUaowl/b93MGOyHorIbWs=",
   "Source": "AppSemTemplate",
   "BasePath": "_content/AppSemTemplate",
   "Mode": "Default",
@@ -6674,6 +6674,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "SourceId": "AppSemTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\",
+      "BasePath": "_content/AppSemTemplate",
+      "RelativePath": "images/67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l59potqgb2",
+      "Integrity": "mUacJSZBcCgf/J0kCqQzeGe8Eyh7mp5FYSZkaOPrvb8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
       "SourceId": "AppSemTemplate",
       "SourceType": "Discovered",
@@ -6819,6 +6840,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo_watermark.png"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "SourceId": "AppSemTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\",
+      "BasePath": "_content/AppSemTemplate",
+      "RelativePath": "images/prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "32s62djj69",
+      "Integrity": "i1mJ0mb6ujI3+fyEBWp2b6uVdZ27tLDTAsQIWjYqzh8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg"
     },
     {
       "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
@@ -22307,6 +22349,88 @@
       ]
     },
     {
+      "Route": "images/67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mUacJSZBcCgf/J0kCqQzeGe8Eyh7mp5FYSZkaOPrvb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 02:05:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mUacJSZBcCgf/J0kCqQzeGe8Eyh7mp5FYSZkaOPrvb8="
+        }
+      ]
+    },
+    {
+      "Route": "images/67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.l59potqgb2.jpeg",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mUacJSZBcCgf/J0kCqQzeGe8Eyh7mp5FYSZkaOPrvb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 02:05:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l59potqgb2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mUacJSZBcCgf/J0kCqQzeGe8Eyh7mp5FYSZkaOPrvb8="
+        }
+      ]
+    },
+    {
       "Route": "images/84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.8avdwpkua6.jpg",
       "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
       "Selectors": [],
@@ -22877,6 +23001,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-cDrYqPbMuOQcdFcEUJ+TMvm0fcQOmFwKSV6kWHMQNnI="
+        }
+      ]
+    },
+    {
+      "Route": "images/prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.32s62djj69.jpeg",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i1mJ0mb6ujI3+fyEBWp2b6uVdZ27tLDTAsQIWjYqzh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 02:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32s62djj69"
+        },
+        {
+          "Name": "label",
+          "Value": "images/prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i1mJ0mb6ujI3+fyEBWp2b6uVdZ27tLDTAsQIWjYqzh8="
+        }
+      ]
+    },
+    {
+      "Route": "images/prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i1mJ0mb6ujI3+fyEBWp2b6uVdZ27tLDTAsQIWjYqzh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 02:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i1mJ0mb6ujI3+fyEBWp2b6uVdZ27tLDTAsQIWjYqzh8="
         }
       ]
     },

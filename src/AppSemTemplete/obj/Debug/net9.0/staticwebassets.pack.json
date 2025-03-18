@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "PackagePath": "staticwebassets\\images\\67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg"
+    },
+    {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
       "PackagePath": "staticwebassets\\images\\84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg"
     },
@@ -43,6 +47,10 @@
     {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\logo_watermark.png",
       "PackagePath": "staticwebassets\\images\\logo_watermark.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg",
+      "PackagePath": "staticwebassets\\images\\prod_67f827c9-1c1f-419b-ac1e-a0d0d91db140_Foto Perfil Ronaldo.jpeg"
     },
     {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",

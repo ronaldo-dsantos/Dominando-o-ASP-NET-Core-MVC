@@ -1,11 +1,21 @@
-﻿namespace Testes
+﻿using AppSemTemplate.Controllers;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Testes
 {
     public class ControllerTests
     {
         [Fact]
-        public void Test1()
+        public void TesteController_Index_Sucesso()
         {
+            // Arrange
+            var controller = new TesteController();
 
+            // Action
+            var result = controller.Index();
+
+            // Assert
+            Assert.IsType<ViewResult>(result);
         }
     }
 }
