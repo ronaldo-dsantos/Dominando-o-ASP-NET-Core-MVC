@@ -564,3 +564,7 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\AppSemTemplate.Resources.Views.Shared._SelectLanguagePartial.en.resources
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\tw9kizf1x0-0frselpm5f.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\obj\Debug\net9.0\compressed\xig704iyvf-8f9ldmwz93.gz
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\System.Private.Windows.Core.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\08-dominando-o-asp-net-core-mvc\src\AppSemTemplete\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll

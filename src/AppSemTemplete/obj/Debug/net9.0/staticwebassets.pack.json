@@ -41,6 +41,34 @@
       "PackagePath": "staticwebassets\\images\\eb581a03-b46f-41df-aa42-bc900d3b26d0_Foto Perfil Natacha.jpg"
     },
     {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\logo_watermark.png",
+      "PackagePath": "staticwebassets\\images\\logo_watermark.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg",
+      "PackagePath": "staticwebassets\\images\\prod_84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_CSS.jpg",
+      "PackagePath": "staticwebassets\\images\\prod_CSS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_HTML.jpg",
+      "PackagePath": "staticwebassets\\images\\prod_HTML.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_JQuery.jpg",
+      "PackagePath": "staticwebassets\\images\\prod_JQuery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_Razor.jpg",
+      "PackagePath": "staticwebassets\\images\\prod_Razor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\images\\prod_eb581a03-b46f-41df-aa42-bc900d3b26d0_Foto Perfil Natacha.jpg",
+      "PackagePath": "staticwebassets\\images\\prod_eb581a03-b46f-41df-aa42-bc900d3b26d0_Foto Perfil Natacha.jpg"
+    },
+    {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\src\\AppSemTemplete\\wwwroot\\js\\cep.js",
       "PackagePath": "staticwebassets\\js\\cep.js"
     },

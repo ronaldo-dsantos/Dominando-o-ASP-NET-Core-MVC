@@ -196,6 +196,13 @@ wwwroot\images\CSS.jpg
 wwwroot\images\eb581a03-b46f-41df-aa42-bc900d3b26d0_Foto Perfil Natacha.jpg
 wwwroot\images\HTML.jpg
 wwwroot\images\JQuery.jpg
+wwwroot\images\logo_watermark.png
+wwwroot\images\prod_84e4c4c9-8ef9-4c74-9b6a-7381a5a6fcaa_Foto Perfil Natacha.jpg
+wwwroot\images\prod_CSS.jpg
+wwwroot\images\prod_eb581a03-b46f-41df-aa42-bc900d3b26d0_Foto Perfil Natacha.jpg
+wwwroot\images\prod_HTML.jpg
+wwwroot\images\prod_JQuery.jpg
+wwwroot\images\prod_Razor.jpg
 wwwroot\images\Razor.jpg
 wwwroot\js\cep.js
 wwwroot\js\site.js

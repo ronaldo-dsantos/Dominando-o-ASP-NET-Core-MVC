@@ -12,7 +12,6 @@
     <Folder Include="Modulos\Produtos\Models\" />
     <Folder Include="Modulos\Vendas\Data\" />
     <Folder Include="Modulos\Vendas\Models\" />
-    <Folder Include="wwwroot\images\" />
     <Folder Include="wwwroot\lib\" />
   </ItemGroup>
 
@@ -33,6 +32,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
+    <PackageReference Include="System.Drawing.Common" Version="9.0.3" />
   </ItemGroup>
 
 </Project>
