@@ -29,15 +29,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Testes",
+              "Title": "Testes.csproj",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\Testes\\Testes.csproj",
               "RelativeDocumentMoniker": "..\\tests\\Testes\\Testes.csproj",
               "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\Testes\\Testes.csproj",
               "RelativeToolTip": "..\\tests\\Testes\\Testes.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T22:27:17.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T22:27:17.517Z"
             },
             {
               "$type": "Document",
@@ -45,9 +44,9 @@
               "Title": "ControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\Testes\\ControllerTests.cs",
               "RelativeDocumentMoniker": "..\\tests\\Testes\\ControllerTests.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\Testes\\ControllerTests.cs*",
-              "RelativeToolTip": "..\\tests\\Testes\\ControllerTests.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwDwAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\08-dominando-o-asp-net-core-mvc\\tests\\Testes\\ControllerTests.cs",
+              "RelativeToolTip": "..\\tests\\Testes\\ControllerTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAiwHUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T21:20:20.989Z",
               "EditorCaption": ""
