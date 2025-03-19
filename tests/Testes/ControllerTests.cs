@@ -27,7 +27,7 @@ namespace Testes
         }
 
         [Fact]
-        public void ProdutosController_Index_Sucesso() 
+        public void ProdutosController_Index_Sucesso()
         {
             // Arrange
 
@@ -72,7 +72,7 @@ namespace Testes
         }
 
         [Fact]
-        public void ProdutoController_CriarNovoProduto_Sucesso()
+        public void ProdutosController_CriarNovoProduto_Sucesso()
         {
             // Arrange
 
@@ -115,6 +115,40 @@ namespace Testes
 
             // Assert
             Assert.IsType<RedirectToActionResult>(result);
+        }
+
+        [Fact]
+        public void ProdutosController_CriarNovoProduto_ErroValidacaoProduto()
+        {
+            // Arrange
+
+            // Dbcontext Options
+            var options = new DbContextOptionsBuilder<AppDbContext>()
+                .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
+                .Options;
+
+            // Contexto
+            var ctx = new AppDbContext(options);
+
+            // Img Service
+            var imgService = new Mock<IImageUploadService>();
+
+            // Controller
+            var controller = new ProdutosController(ctx, imgService.Object);
+
+            controller.ModelState.AddModelError("Nome", "O campo nome é requerido.");
+
+            // produto
+            var produto = new Produto
+            {
+            };
+
+            // Act
+            var result = controller.CriarNovoProduto(produto).Result;
+
+            // Assert
+            Assert.False(controller.ModelState.IsValid);
+            Assert.IsType<ViewResult>(result);
         }
     }
 }
