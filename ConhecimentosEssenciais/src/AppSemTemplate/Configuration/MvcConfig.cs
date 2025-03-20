@@ -1,10 +1,12 @@
 ﻿using AppSemTemplate.Data;
 using AppSemTemplate.Extensions;
 using AppSemTemplate.Services;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+using System.Threading.Tasks;
 
 namespace AppSemTemplate.Configuration
 {
@@ -34,6 +36,10 @@ namespace AppSemTemplate.Configuration
             })                
                 .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix) // Adicionando suporte a localização para as views                
                 .AddDataAnnotationsLocalization(); // Adicionando suporte a localização para as DataAnnotation
+
+            builder.Services.AddDataProtection()
+                .PersistKeysToFileSystem(new DirectoryInfo(@"/var/data_protection_keys/"))
+                .SetApplicationName("MinhaAppMVC");
 
             // Adicionando suporte a cookies
             builder.Services.Configure<CookiePolicyOptions>(options =>
@@ -80,7 +86,7 @@ namespace AppSemTemplate.Configuration
             return builder;
         }
 
-        public static WebApplication UseMvcConfiguration(this WebApplication app)
+        public static async Task<WebApplication> UseMvcConfiguration(this WebApplication app)
         {
             // Adicionando o HSTS a aplicação
             if (app.Environment.IsDevelopment())
@@ -141,6 +147,8 @@ namespace AppSemTemplate.Configuration
 
                 Console.WriteLine("Direto da Program.cs" + singService.OperacaoId);
             }
+
+            DbMigrationHelpers.EnsureSeedData(app).Wait();
 
             return app;
         }
