@@ -11,7 +11,7 @@ namespace AppSemTemplate.Configuration
             builder.Services.Configure<ElmahIoOptions>(builder.Configuration.GetSection("ElmahIo"));
             builder.Services.AddElmahIo();
 
-            // Adicionando configurações do ElmahIo para capturar os logs padrão do aspnet core e enviar para o ElmahIo
+            // Adicionando as configurações de log padrão do aspnet core para o ElmahIo
             builder.Logging.Services.Configure<ElmahIoProviderOptions>(builder.Configuration.GetSection("ElmahIo"));
             builder.Logging.AddConfiguration(builder.Configuration.GetSection("Logging"));
             builder.Logging.AddElmahIo();

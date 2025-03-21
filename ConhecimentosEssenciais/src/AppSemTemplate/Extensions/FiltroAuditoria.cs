@@ -13,9 +13,10 @@ namespace AppSemTemplate.Extensions
         }
 
         // Exemplo de como trabalhar com filtros de ação
-        // Filtro para auditoria capturando o que foi executado após a execução da ação
+        // Filtro de auditoria capturando o que foi executado pela action após a execução
         public void OnActionExecuted(ActionExecutedContext context)
-        {         
+        {
+            // Se o usuário estiver autenticado, então vamos gravar o log com o nome do usuário e o que ele acessou
             if (context.HttpContext.User?.Identity?.IsAuthenticated == true)
             {
                 var message = $"{context.HttpContext.User.Identity.Name} Acessou: {context.HttpContext.Request.GetDisplayUrl()}";

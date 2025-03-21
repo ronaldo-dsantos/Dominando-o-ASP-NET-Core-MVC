@@ -27,9 +27,8 @@ namespace AppSemTemplate.Configuration
 
             builder.Services.AddControllersWithViews(options =>
             {
-                // Aplicando globalmente o ValidateAntiForgeryToken em todas as requisições (pode ser aplicado individualmente em cada m�todo ou aplicado globalmente para toda a aplica��o)
-                options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
-                options.Filters.Add(typeof(FiltroAuditoria));
+                options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute()); // Aplicando globalmente o filtro ValidateAntiForgeryToken em todas as requisições (pode ser aplicado individualmente em cada controller ou aplicado globalmente para toda a aplicacao)
+                options.Filters.Add(typeof(FiltroAuditoria)); // Adicionando filtro de auditoria
 
                 // Adicionando mensagens de validação de ModelState customizadas
                 MvcOptionsConfig.ConfigurarMensagensDeModelBinding(options.ModelBindingMessageProvider);
