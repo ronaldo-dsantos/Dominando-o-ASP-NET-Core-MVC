@@ -4,6 +4,7 @@ namespace AppSemTemplate.Configuration
 {
     public class MvcOptionsConfig
     {
+        // Customizaçao de mensagens de validação da modelstate customizadas para a nossa cultura
         public static void ConfigurarMensagensDeModelBinding(DefaultModelBindingMessageProvider messageProvider)
         {
             messageProvider.SetAttemptedValueIsInvalidAccessor((x, y) => "O valor preenchido é inválido para este campo.");

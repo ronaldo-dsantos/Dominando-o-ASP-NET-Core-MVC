@@ -66,6 +66,7 @@ namespace AppSemTemplate.Controllers
         }
 
 
+        // Exemplo de como criar um cookie para guardar a cultura selecionada da aplicação
         [HttpPost]
         public IActionResult SetLanguage(string culture, string returnUrl)
         {

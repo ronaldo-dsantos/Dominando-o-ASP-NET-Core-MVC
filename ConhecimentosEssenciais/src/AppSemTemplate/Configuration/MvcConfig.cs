@@ -30,8 +30,7 @@ namespace AppSemTemplate.Configuration
                 options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute()); // Aplicando globalmente o filtro ValidateAntiForgeryToken em todas as requisições (pode ser aplicado individualmente em cada controller ou aplicado globalmente para toda a aplicacao)
                 options.Filters.Add(typeof(FiltroAuditoria)); // Adicionando filtro de auditoria
 
-                // Adicionando mensagens de validação de ModelState customizadas
-                MvcOptionsConfig.ConfigurarMensagensDeModelBinding(options.ModelBindingMessageProvider);
+                MvcOptionsConfig.ConfigurarMensagensDeModelBinding(options.ModelBindingMessageProvider); // Adicionando mensagens de validação da modelstate customizadas para a nossa cultura
             })                
                 .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix) // Adicionando suporte a localização para as views                
                 .AddDataAnnotationsLocalization(); // Adicionando suporte a localização para as DataAnnotation

@@ -6,6 +6,7 @@ using System.Globalization;
 
 namespace AppSemTemplate.Extensions
 {
+    // Criando uma data annotation customizada para validar o tipo moeda
     public class MoedaAttribute : ValidationAttribute
     {
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
@@ -23,9 +24,9 @@ namespace AppSemTemplate.Extensions
         }
     }
 
+    // Adapter para exibir a mensagem de validacao customizada no front-end
     public class MoedaAttributeAdapter : AttributeAdapterBase<MoedaAttribute>
     {
-
         public MoedaAttributeAdapter(MoedaAttribute attribute, IStringLocalizer stringLocalizer) : base(attribute, stringLocalizer)
         {
 
@@ -48,6 +49,7 @@ namespace AppSemTemplate.Extensions
         }
     }
 
+    // Provider para registrar o adapter
     public class MoedaValidationAttributeAdapterProvider : IValidationAttributeAdapterProvider
     {
         private readonly IValidationAttributeAdapterProvider _baseProvider = new ValidationAttributeAdapterProvider();

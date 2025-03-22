@@ -20,7 +20,7 @@ namespace AppSemTemplate.Configuration
 
             builder.Services.AddTransient<OperacaoService>();
 
-            builder.Services.AddSingleton<IValidationAttributeAdapterProvider, MoedaValidationAttributeAdapterProvider>();
+            builder.Services.AddSingleton<IValidationAttributeAdapterProvider, MoedaValidationAttributeAdapterProvider>(); // Adicionando o provider de validação customizado
 
             return builder;
         }

@@ -19,6 +19,7 @@
     </script>
 </environment>
 
+@* scripts personalizados para validacao de range, numero e data de acordo com a nossa cultura*@
 <script>
     $.validator.methods.range = function (value, element, param) {
         var globalizedValue = value.replace(",", ".");

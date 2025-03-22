@@ -25,6 +25,7 @@ namespace AppSemTemplate.Configuration
         //    return app;
         //}
 
+        // Refatorando o método UseGlobalizationConfig para utilizar as opções de localização configuradas no método AddGlobalizationConfig
         public static WebApplication UseGlobalizationConfig(this WebApplication app)
         {
             var localizationOptions = app.Services.GetService<IOptions<RequestLocalizationOptions>>();
@@ -33,9 +34,10 @@ namespace AppSemTemplate.Configuration
             return app;
         }
 
+        // Adicionando suporte a mais de uma cultura na aplicação
         public static WebApplicationBuilder AddGlobalizationConfig(this WebApplicationBuilder builder)
         {
-            builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
+            builder.Services.AddLocalization(options => options.ResourcesPath = "Resources"); // Informando o caminho onde estão os arquivos de recursos de acordo com a cultura
 
             builder.Services.Configure<RequestLocalizationOptions>(options =>
             {
