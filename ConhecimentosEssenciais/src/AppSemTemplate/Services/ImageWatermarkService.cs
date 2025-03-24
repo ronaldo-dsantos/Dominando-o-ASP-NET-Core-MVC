@@ -4,6 +4,7 @@ using System.Drawing;
 
 namespace AppSemTemplate.Services
 {
+    // Classe que implementa um serviço de background para adicionar uma marca d'água em imagens de produtos
     public class ImageWatermarkService : BackgroundService
     {
         private readonly IServiceProvider _serviceProvider;

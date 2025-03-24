@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Razor.TagHelpers;
 
+
+// Tag Helper para apagar elementos conforme a claim do usuário
 namespace AppSemTemplate.Extensions
 {
     [HtmlTargetElement("*", Attributes = "supress-by-claim-name")]

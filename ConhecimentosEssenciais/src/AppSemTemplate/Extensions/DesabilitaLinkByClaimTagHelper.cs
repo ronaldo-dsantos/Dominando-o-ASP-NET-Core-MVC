@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Razor.TagHelpers;
 
+// Criando um Tag Helper para desabilitar um link conforme a claim do usuário
 namespace AppSemTemplate.Extensions
 {
     [HtmlTargetElement("*", Attributes = "disable-by-claim-name")]

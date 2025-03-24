@@ -54,6 +54,7 @@ namespace AppSemTemplate.Controllers
             // Adicionando msg que será exibida conforme o idioma selecionado
             ViewData["Message"] = _localizer["Seja bem vindo!!!"];
 
+            // Exemplo para que possamos testar o chache trabalhando 
             ViewData["Horario"] = DateTime.Now;
 
             // Exemplo de como obter um cookie 

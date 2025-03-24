@@ -22,8 +22,7 @@ namespace AppSemTemplate.Configuration
                 .AddEnvironmentVariables()
                 .AddUserSecrets(Assembly.GetExecutingAssembly(), true);
 
-            // Adicionando suporte a cache na aplicação
-            builder.Services.AddResponseCaching();
+            builder.Services.AddResponseCaching(); // Adicionando suporte a cache na aplicação
 
             builder.Services.AddControllersWithViews(options =>
             {

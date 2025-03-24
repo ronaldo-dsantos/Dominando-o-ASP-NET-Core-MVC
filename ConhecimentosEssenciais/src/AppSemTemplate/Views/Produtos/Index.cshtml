@@ -5,6 +5,7 @@
 }
 <h1>@ViewData["Title"]</h1>
 
+@* Exemplo de como aplicar uma Tag Helper que não exibe o botão de acordo com as claims do usuário *@
 <p>
     <a class="btn btn-primary" supress-by-claim-name="Produtos" supress-by-claim-value="AD" asp-action="CriarNovoProduto"><spam class="fa fa-plus"></spam> Novo</a>
 </p>

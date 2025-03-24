@@ -1,5 +1,7 @@
 ﻿@using Microsoft.AspNetCore.Http.Features
 
+@* Partial View para o usuário aceitar a politica de coockies *@
+
 @{
     var consentFeature = Context.Features.Get<ITrackingConsentFeature>();
     var showBanner = !consentFeature?.CanTrack ?? false;
