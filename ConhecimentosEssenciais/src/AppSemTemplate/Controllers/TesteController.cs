@@ -2,6 +2,7 @@
 
 namespace AppSemTemplate.Controllers
 {
+    // Controller para exemplo de teste
     public class TesteController : Controller
     {
         public IActionResult Index()

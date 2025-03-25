@@ -13,6 +13,7 @@ namespace Testes
 {
     public class ControllerTests
     {
+        // Estrutura básica de um teste
         [Fact]
         public void TesteController_Index_Sucesso()
         {
@@ -39,6 +40,7 @@ namespace Testes
             // Contexto
             var ctx = new AppDbContext(options);
 
+            // Populando o banco
             ctx.Produtos.Add(new Produto { Id = 1, Nome = "Produto 1", Valor = 10m });
             ctx.Produtos.Add(new Produto { Id = 2, Nome = "Produto 2", Valor = 10m });
             ctx.Produtos.Add(new Produto { Id = 3, Nome = "Produto 3", Valor = 10m });
