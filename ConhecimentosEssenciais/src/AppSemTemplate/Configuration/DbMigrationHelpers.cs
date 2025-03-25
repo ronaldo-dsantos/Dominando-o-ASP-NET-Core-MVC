@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace AppSemTemplate.Configuration
 {
+    // Classe para gerar as migrações e popular a base de dados
     public static class DbMigrationHelpers
     {
         public static async Task EnsureSeedData(WebApplication serviceScope)

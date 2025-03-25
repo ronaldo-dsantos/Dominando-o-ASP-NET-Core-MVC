@@ -6,7 +6,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
-using System.Threading.Tasks;
 
 namespace AppSemTemplate.Configuration
 {
@@ -34,6 +33,7 @@ namespace AppSemTemplate.Configuration
                 .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix) // Adicionando suporte a localização para as views                
                 .AddDataAnnotationsLocalization(); // Adicionando suporte a localização para as DataAnnotation
 
+            // Alterando o comportamento das DataProtection para salvar em uma pasta para que possamos utilizá-la no ambiente Docker
             builder.Services.AddDataProtection()
                 .PersistKeysToFileSystem(new DirectoryInfo(@"/var/data_protection_keys/"))
                 .SetApplicationName("MinhaAppMVC");
